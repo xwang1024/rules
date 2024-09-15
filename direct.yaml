@@ -69,5 +69,6 @@ payload:
   - DOMAIN-SUFFIX,steam-content-dnld-1.qwilted-cds.cqloud.com
   # Media
   - DOMAIN-SUFFIX,ap.spotify.com
+  - DOMAIN-SUFFIX,anilist.co
   # Software
   - DOMAIN-SUFFIX,snipaste.com
